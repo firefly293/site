@@ -25,4 +25,4 @@ jmpr 0x00 0x00 0x0e 0x00 ; jump back to start of loop
 ret ; return
 ```
 
-For more details, documentation, and the source code of the project, visit [it's github repo](https://github.com/firefly293/protium).
+For more details, documentation, and the source code of the project, visit [its github repo](https://github.com/firefly293/protium).
